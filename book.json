@@ -1,0 +1,27 @@
+{
+  "root": ".",
+  "author": "Xiang Fan",
+  "plugins": [
+    "splitter",
+    "toc",
+    "simple-page-toc",
+    "github",
+    "expandable-chapters-small",
+    "chapter-fold",
+    "page-treeview"
+  ],
+  "pluginsConfig": {
+    "simple-page-toc": {
+      "maxDepth": 3,
+      "skipFirstH1": false
+    },
+    "github": {
+      "url": "https://github.com/fanxiangs"
+    },
+    "page-treeview": {
+      "copyright": "Copyright &#169; aleen42",
+      "minHeaderCount": "2",
+      "minHeaderDeep": "2"
+    }
+  }
+}
