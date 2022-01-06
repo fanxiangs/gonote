@@ -2,8 +2,8 @@
   "root": ".",
   "author": "Xiang Fan",
   "plugins": [
+    "anchor-navigation-ex",
     "code",
-    "page-toc-button",
     "disqus",
     "splitter",
     "toc",
@@ -13,12 +13,12 @@
     "chapter-fold"
   ],
   "pluginsConfig": {
+    "anchor-navigation-ex": {
+      "showLevel": true,
+      "showGoTop": true
+    },
     "code": {
       "copyButtons": true
-    },
-    "page-toc-button": {
-      "maxTocDepth": 2,
-      "minTocSize": 2
     },
     "disqus": {
       "shortName": "fanxiang"

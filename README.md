@@ -1,3 +1,4 @@
+<!-- ex_nonav -->
 # gonote
 
 ## git book

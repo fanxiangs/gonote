@@ -1,3 +1,4 @@
+<extoc></extoc>
 # chapter1 base
 ## 变量
 ### var
