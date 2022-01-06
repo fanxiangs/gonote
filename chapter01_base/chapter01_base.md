@@ -1,4 +1,3 @@
-[toc]
 # chapter1 base
 ## 变量
 ### var
