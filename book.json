@@ -2,6 +2,7 @@
   "root": ".",
   "author": "Xiang Fan",
   "plugins": [
+    "disqus",
     "splitter",
     "toc",
     "simple-page-toc",
@@ -11,6 +12,9 @@
     "page-treeview"
   ],
   "pluginsConfig": {
+    "disqus": {
+      "shortName": "fanxiang"
+    },
     "simple-page-toc": {
       "maxDepth": 3,
       "skipFirstH1": false
