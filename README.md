@@ -1,5 +1,5 @@
 <!-- ex_nonav -->
-# gonote
+# [gonote](https://fanxiangs.github.io/gonote/)
 
 ## git book
 ### build book

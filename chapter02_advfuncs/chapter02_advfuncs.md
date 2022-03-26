@@ -1,5 +1,5 @@
 # chapter02_advfuncs
-## [可变参数](./01-variadic-funcs/main.go)(... parameters)
+## [可变参数](01-variadic-funcs/main.go)
 
 ## [返回值](./02-func-values/main.go)
 
