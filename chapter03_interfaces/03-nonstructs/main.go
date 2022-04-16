@@ -9,5 +9,7 @@ func main() {
 	var items []*game
 	items = append(items, &minecraft, &tetris)
 	my := list(items)
+	// 即使my为nil也可以调用方法
+	//my = nil
 	my.print()
 }
