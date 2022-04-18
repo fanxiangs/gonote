@@ -1,7 +1,7 @@
 # chapter02_advfuncs
-## [methods](./01-methods/main.go)
+## [methods](./01-methods)
 
-## [receivers](./02-receivers/main.go)
+## [receivers](./02-receivers)
 
 - 
   Pointers vs. Values
@@ -15,8 +15,19 @@
   第二方面是如果你用指针类型作为receiver,那么你一定要注意,这种指针类型指向的始终是一块内存地址,就算你对其进行了拷贝。
 
 
-## [nonstructs](./03-nonstructs/main.go)
+## [nonstructs](./03-nonstructs)
 
-## [interfaces](./04-interfaces/main.go)
+## [interfaces](./04-interfaces)
 pirnter interface
- [power](./04-interfaces/power/main.go): 带有pointer的interface
+[power](./04-interfaces/power): 带有pointer的interface
+
+## [type assertion](./05-type-assertion)
+
+## [empty interface](./06-empty-interface)
+
+## [type switch](./07-type-switch)
+
+## [promoted methods](./08-promoted-methods)
+
+## [little refactor](./09-little-refactor)
+接口分离
